@@ -60,6 +60,7 @@ namespace Course
             int n3 = int.Parse(Console.ReadLine());
             double resultado = Maior(n1, n2, n3);
             int test;
+            int test2;
 
             Console.WriteLine("Maior: " + resultado);
             
