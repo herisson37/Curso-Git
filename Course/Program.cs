@@ -62,6 +62,7 @@ namespace Course
             int test;
             int test2;
             int test3;
+            int test4;
             Console.WriteLine("Maior: " + resultado);
             
 
