@@ -61,7 +61,7 @@ namespace Course
             double resultado = Maior(n1, n2, n3);
             int test;
             int test2;
-
+            int test3;
             Console.WriteLine("Maior: " + resultado);
             
 
